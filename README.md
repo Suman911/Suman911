@@ -11,4 +11,4 @@
 
 ### My Projrct repo
 
-1. [SORTING-VISUALIZER](https://github.com/Suman911/SORTING-VISUALIZER) ![alt text for screen readers](https://www.google.com/images/logo.gif "Text to show on mouseover")
+1. [SORTING-VISUALIZER](https://github.com/Suman911/SORTING-VISUALIZER)
